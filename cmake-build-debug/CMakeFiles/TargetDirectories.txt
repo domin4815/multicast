@@ -1,0 +1,4 @@
+/home/domin4815/multicast/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/domin4815/multicast/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/domin4815/multicast/cmake-build-debug/CMakeFiles/client.dir
+/home/domin4815/multicast/cmake-build-debug/CMakeFiles/multicast.dir
